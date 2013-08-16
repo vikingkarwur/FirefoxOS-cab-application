@@ -1,0 +1,14 @@
+{
+	"name": "Suna un taxi",
+	"version": "1.1",
+	"description": "Aplicatia 'Suna un taxi' iti permite sa suni la un numar de taxi din orice judet al Romaniei.",
+	"launch_path": "/index.html",
+	"developer": {
+		"name": "Moraru Stefan"
+	},
+	"icons": {
+		"60": "/images/icon-60.png",
+		"128": "/images/icon.png"
+	},
+	"default_locale": "ro"
+}
