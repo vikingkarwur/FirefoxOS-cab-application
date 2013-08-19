@@ -17,6 +17,4 @@ Screenshots
 	<img src="screenshots/screenshot.png"/>
 	<span></span>
 	<img src="screenshots/screenshot1.png" />
-	<span></span>
-	<img src="screenshots/screenshot2.png" />
 </div>
